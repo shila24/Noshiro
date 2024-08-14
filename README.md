@@ -8,9 +8,12 @@ pressuresensor.py
 gps.py  
 pixracer.py  
 logger_write.py  
-logger_read.py
+logger_read.py  
 terminator.py
-  
+camera.py  
+objectdetecrtion.py
+move.py  
+drone.py  
 
 
 
