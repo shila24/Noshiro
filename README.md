@@ -3,12 +3,14 @@
 能代用に使ったシーケンスコードとライブラリのコードです
 
 1. ライブラリの中身
-light  
-pressuresensor  
-gps  
-pixracer  
-logger_write  
-logger_read  
+light.py  
+pressuresensor.py  
+gps.py  
+pixracer.py  
+logger_write.py  
+logger_read.py
+terminator.py
+  
 
 
 
