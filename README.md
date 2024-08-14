@@ -3,12 +3,12 @@
 能代用に使ったシーケンスコードとライブラリのコードです
 
 1. ライブラリの中身
-light
-pressuresensor
-gps
-pixracer
-logger_write
-logger_read
+//light
+//pressuresensor
+//gps
+//pixracer
+//logger_write
+//logger_read
 
 
 
